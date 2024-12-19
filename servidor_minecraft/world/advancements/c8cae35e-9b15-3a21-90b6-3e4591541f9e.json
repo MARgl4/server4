@@ -1,0 +1,27 @@
+{
+  "death_angels:death_angel_advancement": {
+    "criteria": {
+      "death_angel_advancement_0": "2024-12-19 15:06:02 +0000"
+    },
+    "done": true
+  },
+  "slenderman:slenderman_join_world": {
+    "criteria": {
+      "slenderman_join_world": "2024-12-19 15:06:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-12-19 15:06:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:dark_forest": "2024-12-19 15:06:03 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
