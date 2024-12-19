@@ -2999,3 +2999,26 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [19Dec2024 15:37:12.104] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['bartsek009 '/16197, l='ServerLevel[world]', x=192.48, y=-5.00, z=514.35] died: bartsek009  was blown up by Creeper
 [19Dec2024 15:37:30.219] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19Dec2024 15:37:30.225] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 15:37:55.649] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['WhisperFire26'/16958, l='ServerLevel[world]', x=32.70, y=-20.00, z=539.70] died: WhisperFire26 was slain by Zombie
+[19Dec2024 15:38:34.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MARgl has made the advancement [Stone Age]
+[19Dec2024 15:39:01.600] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Keymind'/17306, l='ServerLevel[world]', x=-7.83, y=-36.00, z=419.64] died: Keymind was doomed to fall by Zombie
+[19Dec2024 15:39:49.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MARgl has made the advancement [Getting an Upgrade]
+[19Dec2024 15:41:16.185] [Server thread/DEBUG] [de.cadentem.goat_man.GoatMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['MARgl'/4789, l='ServerLevel[world]', x=16.06, y=71.00, z=470.31]]
+[19Dec2024 15:42:30.220] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 15:42:30.226] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 15:42:54.935] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity death_angels:meteor_spawn_point but it was marked as removed already
+[19Dec2024 15:43:02.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MARgl has made the advancement [Sweet Dreams]
+[19Dec2024 15:43:19.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PedroCH97 has made the advancement [Sweet Dreams]
+[19Dec2024 15:43:32.784] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity spectre:spectre but it was marked as removed already
+[19Dec2024 15:43:37.284] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity spectre:spectre but it was marked as removed already
+[19Dec2024 15:43:37.984] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity spectre:spectre but it was marked as removed already
+[19Dec2024 15:45:17.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MARgl was caught off guard and slashed by a lurking Death Angel
+[19Dec2024 15:45:22.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PedroCH97 was caught off guard and slashed by a lurking Death Angel
+[19Dec2024 15:45:32.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MARgl got ripped apart by a Death Angel
+[19Dec2024 15:45:37.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PedroCH97 got ripped apart by a Death Angel
+[19Dec2024 15:45:42.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MARgl got ripped apart by a Death Angel
+[19Dec2024 15:45:49.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MARgl was caught off guard and slashed by a lurking Death Angel
+[19Dec2024 15:46:04.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MARgl got ripped apart by a Death Angel
+[19Dec2024 15:46:14.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MARgl was caught off guard whilst trying to escape Death Angel
+[19Dec2024 15:47:30.222] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 15:47:30.228] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
