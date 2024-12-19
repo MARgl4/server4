@@ -845,3 +845,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [19Dec2024 15:13:49.279] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [19Dec2024 15:13:49.283] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@527c9eca[id=<null>,name=PedroCH97,properties={},legacy=false] (/127.112.241.236:55395) lost connection: Connection closed - mismatched mod channel list
 [19Dec2024 15:16:32.084] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5fbff730[id=<null>,name=PedroCH97,properties={},legacy=false] (/127.112.241.236:60811) lost connection: Disconnected
+[19Dec2024 15:21:09.146] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MARgl[/127.33.38.151:36325] logged in with entity id 4789 at (2.937957660334878, 74.0, 5.972357863389728)
+[19Dec2024 15:21:09.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MARgl joined the game
+[19Dec2024 15:21:09.370] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity death_angels:meteor_spawn_point but it was marked as removed already
+[19Dec2024 15:21:54.103] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PedroCH97[/127.112.241.236:58975] logged in with entity id 5377 at (-2.5, 77.0, 40.5)
+[19Dec2024 15:21:54.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PedroCH97 joined the game
+[19Dec2024 15:21:54.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PedroCH97 has made the advancement [Death Angel Advancement]
+[19Dec2024 15:27:13.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PedroCH97 has made the advancement [Jerky?]
