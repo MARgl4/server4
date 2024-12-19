@@ -832,3 +832,16 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [19Dec2024 15:06:02.633] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity death_angels:meteor_spawn_point but it was marked as removed already
 [19Dec2024 15:06:58.442] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MARgl lost connection: Disconnected
 [19Dec2024 15:06:58.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MARgl left the game
+[19Dec2024 15:07:24.995] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MARgl[/127.33.38.151:56939] logged in with entity id 1615 at (23.90812833759737, 74.0, 16.83921929733239)
+[19Dec2024 15:07:25.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MARgl joined the game
+[19Dec2024 15:07:43.643] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@e7cdb62[id=<null>,name=PedroCH97,properties={},legacy=false] (/127.112.241.236:35901) lost connection: Disconnected
+[19Dec2024 15:07:55.244] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@65aebe2b[id=<null>,name=PedroCH97,properties={},legacy=false] (/127.112.241.236:44097) lost connection: Disconnected
+[19Dec2024 15:08:00.493] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Belladonna'/229, l='ServerLevel[world]', x=-38.66, y=64.70, z=3.35] died: Belladonna was slain by Enderman
+[19Dec2024 15:09:03.188] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Gistique'/1788, l='ServerLevel[world]', x=26.85, y=65.00, z=5.96] died: Gistique was slain by Wendigo
+[19Dec2024 15:09:37.990] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['cheesepuff'/2680, l='ServerLevel[world]', x=100.33, y=68.00, z=24.48] died: cheesepuff was slain by Enderman
+[19Dec2024 15:12:16.092] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MARgl lost connection: Disconnected
+[19Dec2024 15:12:16.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MARgl left the game
+[19Dec2024 15:13:49.279] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [death_angels:death_angels] rejected their client side version number
+[19Dec2024 15:13:49.279] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[19Dec2024 15:13:49.283] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@527c9eca[id=<null>,name=PedroCH97,properties={},legacy=false] (/127.112.241.236:55395) lost connection: Connection closed - mismatched mod channel list
+[19Dec2024 15:16:32.084] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5fbff730[id=<null>,name=PedroCH97,properties={},legacy=false] (/127.112.241.236:60811) lost connection: Disconnected
