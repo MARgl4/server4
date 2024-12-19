@@ -852,3 +852,13 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [19Dec2024 15:21:54.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PedroCH97 joined the game
 [19Dec2024 15:21:54.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PedroCH97 has made the advancement [Death Angel Advancement]
 [19Dec2024 15:27:13.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PedroCH97 has made the advancement [Jerky?]
+[19Dec2024 15:27:41.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MARgl has made the advancement [Jerky?]
+[19Dec2024 15:28:41.309] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity spectre:spectre but it was marked as removed already
+[19Dec2024 15:29:07.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MARgl has made the advancement [Monster Hunter]
+[19Dec2024 15:30:19.136] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity spectre:spectre but it was marked as removed already
+[19Dec2024 15:30:32.934] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity spectre:spectre but it was marked as removed already
+[19Dec2024 15:31:49.886] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity spectre:spectre but it was marked as removed already
+[19Dec2024 15:32:04.735] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity death_angels:meteor_spawn_point but it was marked as removed already
+[19Dec2024 15:33:36.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PedroCH97 has made the advancement [Stone Age]
+[19Dec2024 15:33:56.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PedroCH97 has made the advancement [Getting an Upgrade]
+[19Dec2024 15:37:12.104] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['bartsek009 '/16197, l='ServerLevel[world]', x=192.48, y=-5.00, z=514.35] died: bartsek009  was blown up by Creeper
